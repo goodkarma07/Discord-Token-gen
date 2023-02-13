@@ -1,0 +1,13 @@
+{
+    "solverUrl"  : "capmonster.cloud",
+    "proxyPath"  : "lightning/path/proxies.txt", 
+    "tokenPath"  : "lightning/path/tokens.txt", 
+    "captchaKey" : "",
+  
+    "botNameMode"  : "emojiMode",
+    "botWatermark" : "Lightning", 
+    "botDelay"     :  10, 
+    "botThreads"   :  2,
+  
+    "onlineOnCreate" : false
+  }
